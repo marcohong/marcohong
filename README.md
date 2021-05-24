@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcohong
-- 👀 I’m interested in golang/yython
-- 🌱 I’m currently learning golang
+- 👀 I’m interested in Golang/Python
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact details: macohong@hotmail.com
 
